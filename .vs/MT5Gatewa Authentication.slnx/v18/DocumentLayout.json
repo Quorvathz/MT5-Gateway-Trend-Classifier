@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GithubNew\\20\\MT5Gateway\\MT5GatewaAuthentication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B785EE31-E907-8C65-A328-255D63DE074B}|MT5Gatewa Authentication\\MT5GatewayAuthentication.csproj|d:\\githubnew\\20\\mt5gateway\\mt5gatewaauthentication\\mt5gatewa authentication\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B785EE31-E907-8C65-A328-255D63DE074B}|MT5Gatewa Authentication\\MT5GatewayAuthentication.csproj|solutionrelative:mt5gatewa authentication\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B785EE31-E907-8C65-A328-255D63DE074B}|MT5Gatewa Authentication\\MT5GatewayAuthentication.csproj|d:\\githubnew\\20\\mt5gateway\\mt5gatewaauthentication\\mt5gatewa authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B785EE31-E907-8C65-A328-255D63DE074B}|MT5Gatewa Authentication\\MT5GatewayAuthentication.csproj|solutionrelative:mt5gatewa authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\GithubNew\\20\\MT5Gateway\\MT5GatewaAuthentication\\MT5Gatewa Authentication\\Form2.cs",
+              "RelativeDocumentMoniker": "MT5Gatewa Authentication\\Form2.cs",
+              "ToolTip": "D:\\GithubNew\\20\\MT5Gateway\\MT5GatewaAuthentication\\MT5Gatewa Authentication\\Form2.cs [Design]",
+              "RelativeToolTip": "MT5Gatewa Authentication\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T22:18:04.007Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GithubNew\\20\\MT5Gateway\\MT5GatewaAuthentication\\MT5Gatewa Authentication\\Program.cs",
+              "RelativeDocumentMoniker": "MT5Gatewa Authentication\\Program.cs",
+              "ToolTip": "D:\\GithubNew\\20\\MT5Gateway\\MT5GatewaAuthentication\\MT5Gatewa Authentication\\Program.cs",
+              "RelativeToolTip": "MT5Gatewa Authentication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T22:18:02.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
